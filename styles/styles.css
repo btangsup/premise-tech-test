@@ -290,8 +290,9 @@ body {
 }
 
 .section__underline:hover {
-  font-weight: bold;
   cursor: pointer;
+  color: #1D8751;
+  text-decoration: none;
 }
 
 .section__subtitle {

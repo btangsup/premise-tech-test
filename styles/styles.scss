@@ -134,8 +134,9 @@ body {
         text-decoration-color: $button-color;
 
         &:hover {
-            font-weight: bold;
             cursor: pointer;
+            color: $button-color;
+            text-decoration: none;
         }
     }
 
